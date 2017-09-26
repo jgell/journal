@@ -70,5 +70,6 @@ This has deleted the hello.md directory.
 
 This command lists characteristics of the computer's cpu, incluidng number of cores.
 
-
+github is used for multiple people working on the same project adding reprositories without damaging other people's work.
+For this module, we have used github to create a lab journal using the markdown syntax. We have learned the basics on git repositories, including the master branch and practised making additional branches. The text in these branches can be merged with the master branch. We have also begun to commit changes to a repository, adding a description on the updates made.
 
